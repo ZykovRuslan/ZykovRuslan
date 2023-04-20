@@ -18,10 +18,11 @@
 </div>
 <h2>Стек технологий :</h2>
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg"  title="Webpack" alt="Webpack" width="140" height="140"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_icon_130510.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/color/512/webpack.png" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
+  <img src="https://avatars.mds.yandex.net/i?id=e70afc3673aa8dcc4ec30e277b3a35d6-6994724-images-thumbs&ref=rim&n=33&w=453&h=300" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/git_scm_logo_icon_170096.png" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
