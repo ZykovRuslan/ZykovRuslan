@@ -16,6 +16,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
+<div>
+  <ul>
+    <li>
+    <li>
+    <li>
+  <ul>
+</div>
 <h2>Стек технологий :</h2>
 <div>
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" title="React" alt="React" width="40" height="40"/>&nbsp;
