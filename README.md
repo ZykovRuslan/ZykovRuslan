@@ -12,7 +12,7 @@
 <div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=ZykovRuslan&style=flat-square&color=blue" alt=""/>
 <h1>
-  Всем привет!
+  Добро пожаловать на мой профиль!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
