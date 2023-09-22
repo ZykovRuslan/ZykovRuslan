@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://static.tildacdn.com/tild3835-3363-4132-b064-396437363438/working.png" width="400"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/ruslan-zykov/">
+  <a href="https://linkedin.com/in/ruslan-zykov/">
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="120"/>
   </a>
   <a href="https://vk.com/r_u_sl_i_k">
