@@ -56,7 +56,7 @@
 <h2>Статистика:</h4>
 <img src="https://www.codewars.com/users/ZykovRuslan/badges/large" alt="codewars" />  
 
-Решил 370 задач на 🔗 [Codewars](https://codewars.com/users/ZykovRuslan) 🌟 
+Решил 370 задач на 🔗 [Codewars](https://www.codewars.com/users/ZykovR/badges/large) 🌟 
 
 </div>
 
